@@ -1,6 +1,6 @@
 # FoodFlagger
 
-## Developer Tean
+## Developer Team
 
 - Asfandyar Khan
 - Felipe Vallejo
