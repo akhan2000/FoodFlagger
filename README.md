@@ -1,10 +1,10 @@
 # FoodFlagger
 
-#Asfandyar Khan
-#Felipe Vallejo
-#Nate Krall
-#Nathan Shenkerman
-#Viraj Acharya
+Asfandyar Khan
+Felipe Vallejo
+Nate Krall
+Nathan Shenkerman
+Viraj Acharya
 
 ## Overview
 
