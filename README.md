@@ -10,7 +10,7 @@
 
 ## Overview
 
-FreeFoodFinder is a React Native application designed to help users find free food events around them. Utilizing Google Maps API and user-generated data, the app aims to create a community-driven platform for sharing and discovering free food opportunities.
+FoodFlagger is a React Native application (IOS and Android) designed to help users find free food events around them. Utilizing Google Maps API and user-generated data, the app aims to create a community-driven platform for sharing and discovering free food opportunities at the Duke University Campus.
 
 ## Features
 
@@ -39,7 +39,7 @@ FreeFoodFinder is a React Native application designed to help users find free fo
    
 2. **Navigate to the project directory**
     ```bash
-    cd FreeFoodFinder
+    cd FoodFlagger
     ```
   
 3. **Install the required packages**
