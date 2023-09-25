@@ -1,10 +1,12 @@
 # FoodFlagger
 
-Asfandyar Khan
-Felipe Vallejo
-Nate Krall
-Nathan Shenkerman
-Viraj Acharya
+## Developer Tean
+
+- Asfandyar Khan
+- Felipe Vallejo
+- Nate Krall
+- Nathan Shenkerman
+- Viraj Acharya
 
 ## Overview
 
